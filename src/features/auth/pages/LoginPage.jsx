@@ -56,7 +56,7 @@ const LoginForm = () => {
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex w-full max-w-4xl">
                 <div className="hidden md:block md:w-1/2">
                     <img
-                        src="/authentication.jpg"
+                        src="/fivestar-dashboard/authentication.jpg"
                         alt="Authentication"
                         className="h-full w-full object-cover"
                     />
