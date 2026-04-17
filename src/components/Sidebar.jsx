@@ -46,7 +46,7 @@ const Sidebar = forwardRef(({ isCollapsed, toggleSidebar, onNavigate }, ref) => 
                             onClick={() => onNavigate('')}
                             className="text-sm font-bold font-serif flex items-center hover:text-gray-300 focus:outline-none"
                         >
-                            <img src="/logo.png" alt="Logo" className="h-10 mr-2" />
+                            <img src="/fivestar-dashboard/logo.png" alt="Logo" className="h-10 mr-2" />
                             FiveStar Plastic
                         </button>
                         <button onClick={toggleSidebar} className="text-white text-xl">
